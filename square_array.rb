@@ -6,4 +6,5 @@ def square_array(array)
     square *= square
   end
   return square_array(array)
+  end
 end
